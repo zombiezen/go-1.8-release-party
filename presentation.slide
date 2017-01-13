@@ -98,7 +98,7 @@ TODO NEED GRAPHS
 
 * Mutex contention profile
 
-Peter Wienberger (TODO CHECK SPELLING) has added a new pprof profile, mutex contention
+Peter Weinberger has added a new pprof profile, mutex contention
 
 TODO NEEDS EXAMPLE
 
